@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanuel-batista
-- 👀 I’m interested in PHP, C# and MySQL
+- 👀 I’m interested in PHP, MySQL, HTML & CSS
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on projects with these programming languages
 - 📫 How to reach me: emanuel.silva44@etec.sp.gov.br
