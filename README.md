@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @emanuel-batista
-- 👀 I’m interested in PHP, MySQL, HTML & CSS
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on projects with these programming languages
-- 📫 How to reach me: emanuel.silva44@etec.sp.gov.br
+Last semester of Software Development technician at ETEC Araraquara
 
 <!---
 emanuel-batista/emanuel-batista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
