@@ -1,4 +1,4 @@
-Last semester of Software Development technician at ETEC Araraquara
+Software developer and graduating in Bachelor of Information Systems
 
 <!---
 emanuel-batista/emanuel-batista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
