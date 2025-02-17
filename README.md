@@ -25,7 +25,10 @@ I'm a 20-year-old university student at **Uniara** pursuing a Bachelor's degree 
 ---
 
 ## 🎓 Education
-I’m currently pursuing my degree at **Uniara** (University of Araraquara), where I’m expanding my knowledge in Information Sys and related fields.
+- **University**: Currently pursuing my degree at **Uniara** (University of Araraquara) since 2023.
+  - Participated twice in the **college fair**, presenting two different projects to an open audience.
+- **Technical Degree**: Software Development at Etec from 2020 to 2022.
+  - Participated in the **school fair** in 2022 with my final course project, where I achieved the **maximum grade**.
 
 ---
 
@@ -40,7 +43,8 @@ I’m always working on new projects to improve my skills and explore new techno
 
 ## 🌐 Languages
 - **Portuguese** - Native
-- **English** - Fluent
+- **English** - Advanced
+- **Spanish** - Intermediate
 
 ---
 
